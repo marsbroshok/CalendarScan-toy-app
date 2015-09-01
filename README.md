@@ -25,13 +25,13 @@ Tested in iOS iPhone 6 Simulator with iOS 9.
 ## Screenshots
 Test calendar event:
 
-![Test calendar event](http://)
+![Test calendar event](https://raw.githubusercontent.com/marsbroshok/CalendarScan-toy-app/master/Screenshots/EVENT-SAMPLE.png)
 
 Results of iOS built-in NER:
 
-![iOS built-in NER](http://)
+![iOS built-in NER](https://raw.githubusercontent.com/marsbroshok/CalendarScan-toy-app/master/Screenshots/iOS-NER-1.png)
 
 Results of MITIE NER:
 
-![MITIE NER](http://)
+![MITIE NER](https://raw.githubusercontent.com/marsbroshok/CalendarScan-toy-app/master/Screenshots/MITIE-NER.png)
 
