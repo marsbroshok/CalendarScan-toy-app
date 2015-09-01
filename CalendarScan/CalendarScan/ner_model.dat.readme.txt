@@ -1,0 +1,1 @@
+Download and extract model 'ner_model.dat' from http://sourceforge.net/projects/mitie/files/binaries/MITIE-models-v0.2.tar.bz2. Put it to ./CalendarScan/CalendarScan/ner_model.dat
